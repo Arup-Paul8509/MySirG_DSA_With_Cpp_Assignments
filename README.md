@@ -1,8 +1,7 @@
 # Course Completing Certificate
 [MySirG_DSA-Using-CPP_Certificate.pdf](https://github.com/Arup-Paul8509/MySirG_DSA_With_Cpp_Assignments/files/15324669/MySirG_DSA-Using-CPP_Certificate.pdf)
-<img width=300>
-![ARUP PAUL](https://github.com/Arup-Paul8509/MySirG_DSA_With_Cpp_Assignments/assets/56087214/43ca0a24-2cf8-4429-913e-51158b270586)
-</img>
+![Screenshot 2024-05-15 222722](https://github.com/Arup-Paul8509/MySirG_DSA_With_Cpp_Assignments/assets/56087214/232082b0-5018-46fe-8f21-7359505c005e)
+
 
 # About This Course
 ---
