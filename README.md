@@ -1,5 +1,6 @@
 # Course Completing Certificate
 [MySirG_DSA-Using-CPP_Certificate.pdf](https://github.com/Arup-Paul8509/MySirG_DSA_With_Cpp_Assignments/files/15324669/MySirG_DSA-Using-CPP_Certificate.pdf)
+![ARUP PAUL](https://github.com/Arup-Paul8509/MySirG_DSA_With_Cpp_Assignments/assets/56087214/43ca0a24-2cf8-4429-913e-51158b270586)
 
 
 # About This Course
@@ -19,25 +20,25 @@
 - **Projects:** Yes
 
 ## Syllabus
-**Data Structures and its Implementation**
+- **Data Structures and its Implementation**
 • Introduction to Data Structures
 • Why you should learn data structure?
 • use case of data structure
 • Why product based companies focus on data structure
 
-**All About Arrays**
+- **All About Arrays**
 • Down side of using conventional arrays
 • Array data structure
 • Dynamic Arrays
 
-**Linked List**
+- **Linked List**
 • Singly Linked List
 • Doubly Linked List
 • Circular Linked List
 • Circular Doubly Linked List
 • Various Problems on Linked Lists
 
-**Stack and Queue**
+- **Stack and Queue**
 • Stack Introduction
 • Implementation of Stack using arrays
 • Implementation of Stack using Linked List
@@ -48,13 +49,13 @@
 • Double Ended Queue
 • Priority Queue
 
-**Recursion and Backtracking**
+- **Recursion and Backtracking**
 • Recursion Basics
 • Approach to solve recursive problems
 • Recursion vs iteration
 • Types of recursion
 
-**Sorting**
+- **Sorting**
 • Bubble Sort
 • Modified Bubble Sort
 • Selection Sort
@@ -62,13 +63,13 @@
 • Quick Sort
 • Merge Sort
 
-**Searching and Hashing**
+- **Searching and Hashing**
 • Linear Search
 • Binary Search
 • Hashing
 • Implementation of Hashing
 
-**Tree**
+- **Tree**
 • Binary Tree
 • Types of Binary Tree
 • Binary Search Tree
@@ -79,19 +80,19 @@
 • B+ Tree
 • Huffman's Tree
 
-**Heap**
+- **Heap**
 • Heap Introduction
 • Implementation of Heap
 • Heap Sort
 
-**Graph**
+- **Graph**
 • Graph Concept
 • Graph Representation
 • BFS and DFS
 • MST
 • Dijkstras single source shortest path
 
-**Types of Algorithms**
+- **Types of Algorithms**
 • Divide and Conquer
 • Greedy Method
 • Dynamic Programming
