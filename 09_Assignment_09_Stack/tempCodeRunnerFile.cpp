@@ -1,0 +1,9 @@
+obj.push(10);
+    obj.push(20);
+    obj.push(30);
+    obj.push(40);
+    obj.push(50);
+    obj.show();
+    cout<<endl;
+    revStack(obj);
+    obj.show();
